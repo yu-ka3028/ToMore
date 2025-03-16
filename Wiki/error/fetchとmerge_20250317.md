@@ -21,3 +21,5 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 # 結果
 - 個人開発で、理由もreadmeだったので強制pushでも良かったが後学のためfetchしてOK
 
+# 参考記事
+https://qiita.com/chiiiiiiiiiiii/items/118a5b3237c78d720582
