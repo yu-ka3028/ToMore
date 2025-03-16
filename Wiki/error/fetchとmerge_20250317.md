@@ -23,3 +23,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 # 参考記事
 https://qiita.com/chiiiiiiiiiiii/items/118a5b3237c78d720582
+https://qiita.com/wann/items/688bc17460a457104d7d
